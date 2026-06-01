@@ -4,10 +4,11 @@
 df <- data.frame(
 	package = c("datapasta", "pdftools", "data.table"),
 	url = c(
-		"https://milesmcbain.r-universe.dev",
+		"https://github.com/milesmcbain/datapasta",
 		"https://github.com/ropensci/pdftools",
-		"https://rdatatable.r-universe.dev"
+		"https://github.com/rdatatable/data.table"
 	)
 )
 
-jsonlite::write_json(df, 'packages.json', pretty = TRUE)
+# Write the data frame to a JSON file
+jsonlite::write_json(df, "packages.json", pretty = TRUE)
