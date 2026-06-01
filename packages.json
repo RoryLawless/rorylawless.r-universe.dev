@@ -1,0 +1,14 @@
+[
+  {
+    "package": "datapasta",
+    "url": "https://milesmcbain.r-universe.dev"
+  },
+  {
+    "package": "pdftools",
+    "url": "https://github.com/ropensci/pdftools"
+  },
+  {
+    "package": "data.table",
+    "url": "https://rdatatable.r-universe.dev"
+  }
+]
