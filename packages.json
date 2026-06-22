@@ -1,14 +1,6 @@
 [
   {
-    "package": "datapasta",
-    "url": "https://github.com/milesmcbain/datapasta"
-  },
-  {
-    "package": "pdftools",
-    "url": "https://github.com/ropensci/pdftools"
-  },
-  {
-    "package": "data.table",
-    "url": "https://github.com/rdatatable/data.table"
+    "package": "enrollcast",
+    "url": "https://gitlab.com/localopen/enrollcast.git"
   }
 ]
