@@ -3,7 +3,7 @@
 
 df <- data.frame(
   package = "enrollcast",
-  url = "https://gitlab.com/localopen/enrollcast.git"
+  url = "https://gitlab.com/localopen/enrollcast"
 )
 
 # Write the data frame to a JSON file
